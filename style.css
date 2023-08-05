@@ -1,0 +1,60 @@
+/* Main Page*/
+
+*
+{
+    background-color: #18A39F;
+}
+
+.title-recipes
+{
+    color: #3CF0EA;
+    font-weight: 1200px;
+    font-size: 48px;
+    text-align: center;
+}
+
+h3
+{
+    font-size: 24px;
+}
+
+.recipes
+{
+    list-style: none;
+}
+
+.food,h3
+{
+    font-size: 32px;
+    background-color: #ACFFFC;
+    text-align: left;
+}
+
+.hypertext,a
+{
+    color: #A33F08;
+    text-decoration:overline;
+    text-align: center;
+}
+
+
+/* RECIPES WEBSITE CSS */
+
+.recipe-name{
+    color: brown;
+    text-align: center;
+}
+
+p
+{
+    font-size: 20px;
+}
+strong
+{
+    color: rgb(119, 13, 172);
+    text-decoration: underline;
+}
+
+img{
+    border : 10px solid #3CF0EA ;
+}
